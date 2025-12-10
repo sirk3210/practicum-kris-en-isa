@@ -55,7 +55,7 @@ project:
             - file: Content/Labs/Warmtecapaciteit.ipynb
             - file: Content/Labs/koelbuis.ipynb
 
-      # - title: Druk
-      #   children:
-      #     - file: Content/Labs/druksensorijken.ipynb
-      #     - file: Content/Labs/pV_diagram.ipynb
+        - title: Druk
+          children:
+            - file: Content/Labs/druksensorijken.ipynb
+            - file: Content/Labs/pV_diagram.ipynb
